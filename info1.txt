@@ -1,2 +1,6 @@
 Hello World
+<<<<<<< HEAD
 We are a great team!
+=======
+Hello Jing
+>>>>>>> 5262b7f87e778f998c1636ce4f91fba432c6548f
